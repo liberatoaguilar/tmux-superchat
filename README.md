@@ -1,3 +1,9 @@
+> [!WARNING]
+> **DEPRECATED — kept for learning purposes only.** This project pivoted after the 2026 World Cup
+> and is no longer maintained; the hosted service at superchat.aguilabs.com is being discontinued.
+> Successor: **tmux-ticker** — delayed stock quotes in your tmux status ribbon
+> (github.com/liberatoaguilar/tmux-ticker).
+
 # tmux-superchat
 
 A one-row scrolling **superchat** marquee pinned to the top of every tmux window. It
